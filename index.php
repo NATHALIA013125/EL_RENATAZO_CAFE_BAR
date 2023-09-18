@@ -1,5 +1,5 @@
 
-<?php include 'paginas/head.php' ?>
+<?php include 'paginas/cabeza.php' ?>
 
         <section class="page-section clearfix">
             <div class="container">
